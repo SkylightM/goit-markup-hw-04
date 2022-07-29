@@ -116,6 +116,7 @@ button {
     line-height: 1.14;
     font-weight: 500;
     color: var(--grey-color);
+    fill: #757575;
 }
 .header-phone{
     letter-spacing: 2px;
@@ -367,12 +368,10 @@ figure>figcaption>.title {
     padding: 20px;   
 }
 .icon-letter{
-    fill: #757575;
     margin-right: 10px;
     
 }
 .icon-phone{
-    fill: #757575;
     margin-right: 10px;
 }
 .lorem-icons{
