@@ -117,6 +117,8 @@ button {
     font-weight: 500;
     color: var(--grey-color);
     fill: #757575;
+    display: flex;
+    
 }
 .header-phone{
     letter-spacing: 2px;
@@ -257,9 +259,11 @@ figure>figcaption>.title {
     display: flex;
     gap: 46px;
     padding-left: 93px;
+    flex-direction: row;
 }
 .contact-header{
     padding-left: 345px;
+    display: flex;
 }
 .header-mail{
     padding-right: 50px;
