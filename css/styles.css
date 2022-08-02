@@ -262,11 +262,11 @@ figure>figcaption>.title {
     flex-direction: row;
 }
 .contact-header{
-    padding-left: 345px;
+    padding-left: 350px;
     display: flex;
 }
 .header-mail{
-    padding-right: 50px;
+    padding-right: 30px;
 }
 #main-section{
     padding: 0;
